@@ -2,7 +2,7 @@
 Colour Magnitude Diagrams analysis (poster)
 CMD2-analysis
 
-Like I did in a previous project .. (CMD - analysis), (This project documents the analysis of Colour-Magnitude Diagrams (CMDs) conducted as part of an university assignment.
+Like I did in a previous project .. (CMD - analysis), (This project documents the analysis of Colour-Magnitude Diagrams (CMDs) conducted as part of an university assignment, however with M15, M35, M38.
 
 Data Acquisition:
 
